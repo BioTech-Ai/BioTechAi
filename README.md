@@ -10,7 +10,6 @@ Here’s an example of a **README.md** file you can use for your repository. Cus
 
 [![GitHub stars](https://img.shields.io/github/stars/BioFusionAi/BioFusionAI.svg)](https://github.com/BioFusionAi/BioFusionAI/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/BioFusionAi/BioFusionAI.svg)](https://github.com/BioFusionAi/BioFusionAI/network)
-[![GitHub issues](https://img.shields.io/github/issues/BioFusionAi/BioFusionAI.svg)](https://github.com/BioFusionAi/BioFusionAI/issues)
 
 BioFusionAI is a powerful and modular AI-driven framework for biological data analysis, integration, and visualization. Built to accelerate research and innovation in bioinformatics, BioFusionAI leverages cutting-edge AI models and techniques.
 
