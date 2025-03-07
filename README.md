@@ -6,12 +6,12 @@ For inquiries, please contact us at https://x.com/biofusionagent
 Here’s an example of a **README.md** file you can use for your repository. Customize it based on your project details:
 
 ```markdown
-# BioFusionAI
+# BioTechAi
 
-[![GitHub stars](https://img.shields.io/github/stars/BioFusionAi/BioFusionAI.svg)](https://github.com/BioFusionAi/BioFusionAI/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/BioFusionAi/BioFusionAI.svg)](https://github.com/BioFusionAi/BioFusionAI/network)
+[![GitHub stars](https://img.shields.io/github/stars/BioTechAi/BioTechAi.svg)](https://github.com/BioTechAi/BioTechAi/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/BioTechAi/BioTechAi.svg)](https://github.com/BioTechAi/BioTechAi/network)
 
-BioFusionAI is a powerful and modular AI-driven framework for biological data analysis, integration, and visualization. Built to accelerate research and innovation in bioinformatics, BioFusionAI leverages cutting-edge AI models and techniques.
+BioTechAi is a powerful and modular AI-driven framework for biological data analysis, integration, and visualization. Built to accelerate research and innovation in bioinformatics, BioTechAi leverages cutting-edge AI models and techniques.
 
 ---
 
@@ -29,8 +29,8 @@ BioFusionAI is a powerful and modular AI-driven framework for biological data an
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/BioFusionAi/BioFusionAI.git
-   cd BioFusionAI
+   git clone https://github.com/BioTechAi/BioTechAi.git
+   cd BioTechAi
    ```
 
 2. Install dependencies:
