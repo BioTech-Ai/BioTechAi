@@ -1,6 +1,6 @@
 ## Contact
 
-For inquiries, please contact us at https://x.com/biofusionagent
+For inquiries, please contact us at [https://x.com/biofusionagent](https://x.com/BioTechAi_sol)
 ```
 
 Here’s an example of a **README.md** file you can use for your repository. Customize it based on your project details:
