@@ -100,39 +100,6 @@ npm run dev
 2. Ask questions about protein analysis, research methodologies, or general medical information
 3. Receive AI-powered responses and guidance
 
-## 🔬 Research Roadmap
-
-Our research and development roadmap is structured around funding milestones:
-
-### Milestone 1: $1 Million (Achieved)
-- Core ProtGPS protein analysis engine
-- Basic genomics analysis capabilities
-- Fundamental 3D visualization framework
-- Initial AI model training and deployment
-
-### Milestone 2: $2 Million
-- Advanced cell culture analysis system
-- Enhanced protein-protein interaction predictions
-- Expanded genomic variant analysis
-- Improved 3D visualization with cellular context
-
-### Milestone 3: $3 Million
-- Virtual drug screening platform
-- Toxicity prediction system
-- Advanced cell imaging with AI analysis
-- Comprehensive API for third-party integrations
-
-### Milestone 4: $4 Million
-- Cancer cell detection and analysis system
-- DNA repair mechanism analysis
-- Multi-omics data integration
-- Advanced pathway analysis and visualization
-
-### Milestone 5: $5 Million
-- Comprehensive biomarker discovery platform
-- Personalized medicine analysis tools
-- Advanced drug development pipeline
-- Global research collaboration network
 
 ## 🤝 Contributing
 
